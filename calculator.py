@@ -22,6 +22,9 @@ if __name__ == "__main__":
     print(f"5 squared = {square(5)}")
     print(f"3 cubed = {cube(3)}")
 
+def percentage(value, percent):
+    """Calculate percentage of a value"""
+    return (value * percent) / 100
 
 def multiply(a, b):
     return a * b
