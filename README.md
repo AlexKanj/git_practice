@@ -21,3 +21,7 @@ This is a practice repository for learning Git.
 
 ## New contributor
 - Andrew Cook
+
+# Testing Branch Protection
+
+This change should be blocked by branch protection!
