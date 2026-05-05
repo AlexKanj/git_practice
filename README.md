@@ -13,3 +13,8 @@ This is a practice repository for learning Git.
 - Git & GitHub
 
 ## Updated from GitHub
+
+
+## Development Environment
+- Using Visual Studio Code for Git integration
+- VS Code provides a visual interface for Git operations
